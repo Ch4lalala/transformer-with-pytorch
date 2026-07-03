@@ -4,3 +4,6 @@ weights/
 runs/
 .cache/
 .DS_Store
+tokenizer_en.json
+tokenizer_fr.json
+.vscode
